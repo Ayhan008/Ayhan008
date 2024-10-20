@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayhan1380@hotmail.com
-- 😄 Pronouns: Üst Akıl
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
 
 <!---
 Ayhan008/Ayhan008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
